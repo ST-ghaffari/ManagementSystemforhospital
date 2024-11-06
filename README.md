@@ -1,6 +1,9 @@
 # ManagementSystemforhospital
 
 
-![image](https://github.com/user-attachments/assets/091188b6-9274-4772-aca7-59e7c6b8e8c6)
-![image](https://github.com/user-attachments/assets/040f3a14-2325-483a-9df2-7160bcbcfa04)
-![image](https://github.com/user-attachments/assets/88ee0d20-4e71-4b15-a721-69440077d977)
+
+![image](https://github.com/user-attachments/assets/5ca72d5e-44d7-496d-b7d5-94c18deb1308)
+
+![image](https://github.com/user-attachments/assets/de034b3c-01f4-48c2-8edc-b437e0a9df3c)
+
+![image](https://github.com/user-attachments/assets/5ff148f4-46ee-46bd-8f03-dfc4cd8203a8)
